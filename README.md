@@ -2,13 +2,13 @@ Hi there, I’m Mehmet 👋
 
 I'm a Senior iOS Engineer with over six years of dedicated experience in mobile development. My passion lies in crafting impactful, user-centric applications that exceed expectations, and I take pride in having successfully launched over 35 high-quality projects on the App Store. My focus is always on building seamless, intuitive, and scalable apps that make a difference for users.
 
-- 👨‍💻 All of my side projects are available at [https://apps.apple.com/us/developer/mehmet-baykar/id1507667212](https://apps.apple.com/us/developer/mehmet-baykar/id1507667212)
+- 👨‍💻 All of my side projects are available at [appstore](https://apps.apple.com/us/developer/mehmet-baykar/id1507667212)
 
-- 📝 I regularly write articles on [mehmetbaykar.com](mehmetbaykar.com)
+- 📝 I regularly write articles on [my blog](https://mehmetbaykar.com)
 
 - 📫 How to reach me:  **[LinkedIn](https://linkedin.com/in/mehmetbaykar)**,  **[Mastodon](https://mastodon.cloud/@mehmetbaykar)**, **[Stack Overflow](https://stackoverflow.com/users/8953759/mehmet-baykar)**
 
-- 📄 Know about my experiences [here.](https://mehmetbaykar.com/assets/pdf/cv/Mehmet-Baykar-CV.pdf)
+- 📄 Know about my experiences [here](https://mehmetbaykar.com/assets/pdf/cv/Mehmet-Baykar-CV.pdf)
 
 - ⚡ Fun fact: **I do standups**
 
