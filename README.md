@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there, I’m Mehmet 👋
 
-<!--
-**mehmetbaykar/mehmetbaykar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Mobile Engineer with over six years of dedicated experience in mobile development. My passion lies in crafting impactful, user-centric applications that exceed expectations, and I take pride in having successfully launched over 35 high-quality projects on the App Store. My focus is always on building seamless, intuitive, and scalable apps that make a difference for users.
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my side projects are available at [appstore](https://apps.apple.com/us/developer/mehmet-baykar/id1507667212)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I regularly write articles on [my blog](https://mehmetbaykar.com)
+- ⚡ Fun fact: **I do standups**
+
+### Professional Summary
+
+With a Bachelor's degree in Software Engineering, I've built a strong foundation in data structures and system design. This academic experience laid the groundwork for my passion and skills in mobile software development.
+
+Throughout my career, I've had the pleasure of working on diverse projects—from entertainment apps that delight users to real-time communication solutions leveraging WebRTC and XMPP. My expertise extends across both frontend and backend, allowing me to create comprehensive and efficient applications.
+
+### Skills and Expertise
+
+- **Languages**: Swift, Objective-C, Kotlin, Java, C++, Python, TypeScript
+- **Mobile Frameworks**: SwiftUI, UIKit, WatchKit, AVKit, StoreKit, CoreImage, ReplayKit
+- **Architectures**: TCA, MVVM, MVC, MVP, MVI, VIPER
+- **Databases**: CoreData, SwiftData, Realm, SQLite, PostgreSQL
+- **Testing**: XCTest, XCUITest, Quick, Nimble
+- **Full-Stack Development**: React, Next.js, Supabase, Firebase
+- **DevOps and Tools**: Xcode Cloud, Jenkins, Fastlane, GitHub Actions, Docker, AWS
+- **Dependency Management**: SPM, CocoaPods, Carthage
+- **Third-Party Tools**: RxSwift, OpenTok, Alamofire, Amplitude, RevenueCat, WebRTC, XMPP
+
+<details open>
+ <summary> <b>Github Stats</b>: </summary>
+<br>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetbaykar&show_icons=true&theme=dracula&line_height=20"> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetbaykar&theme=dracula&langs_count=8&line_height=20">
+</p>
+
+</details>
