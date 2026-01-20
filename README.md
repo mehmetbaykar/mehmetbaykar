@@ -24,3 +24,5 @@ Throughout my career, I've had the pleasure of working on diverse projects—fro
 - **DevOps and Tools**: Xcode Cloud, Jenkins, Fastlane, GitHub Actions, Docker, AWS
 - **Dependency Management**: SPM, CocoaPods, Carthage
 - **Third-Party Tools**: RxSwift, OpenTok, Alamofire, Amplitude, RevenueCat, WebRTC, XMPP
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetbaykar&theme=darcula)
