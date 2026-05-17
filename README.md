@@ -1,6 +1,6 @@
 ## Hi there, I’m Mehmet 👋
 
-I'm a Senior Mobile Engineer with over six years of dedicated experience in mobile development. My passion lies in crafting impactful, user-centric applications that exceed expectations, and I take pride in having successfully launched over 35 high-quality projects on the App Store. My focus is always on building seamless, intuitive, and scalable apps that make a difference for users.
+I'm a Senior Mobile Engineer with over 7 years of dedicated experience in mobile development. My passion lies in crafting impactful, user-centric applications that exceed expectations, and I take pride in having successfully launched over 35 high-quality projects on the App Store. My focus is always on building seamless, intuitive, and scalable apps that make a difference for users.
 
 - 👨‍💻 All of my side projects are available at [appstore](https://apps.apple.com/us/developer/mehmet-baykar/id1507667212)
 
